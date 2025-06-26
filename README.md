@@ -1,7 +1,7 @@
 ## Trabajo Final Integrador 2025
 
 ## Integrantes
-- Solis Carlos Alberto
+- Bruno Zuñiga
 - Contreras Juan Cruz
 - Gastón Veyrat Durbex
 - Ariel Fernando Gola
