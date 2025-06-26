@@ -1,10 +1,10 @@
 ## Trabajo Final Integrador 2025
 
 ## Integrantes
--Solis Carlos Alberto
--Contreras Juan Cruz
--Gastón Veyrat Durbex
--Ariel Fernando Gola
+- Solis Carlos Alberto
+- Contreras Juan Cruz
+- Gastón Veyrat Durbex
+- Ariel Fernando Gola
 
 ## Carrera
 Tecnicatura Universitaria en Telecomunicaciones
